@@ -1,0 +1,30 @@
+print ("Seja bem vindo(a)")
+print (" -BIBLIOTECA VIRTUAL-")
+print ("*ACERVO DIGITAL*")
+print ("Lista de livros" "01 -O menino do pijama listrado")
+print ("Lista de livros" "02 -Caçador de pipas")
+print ("Lista de livros" "03 -O simbolo perdido")
+print ("Lista de livros" "04 -inferno")
+print ("Lista de livros" "05 -Fortaleza digital")
+print ("Lista de livros" "06 -Ponto de impacto")
+
+
+livro01 = input("Buscar por NOME:")
+livro01 = input("Buscar por EDITORA:" "ASA")
+livro01 = input("Buscar por ANO DA PUBLICAÇÃO:" "2007")
+
+livro02 = input("Buscar por NOME:" )
+livro02 = input("Buscar por EDITORA:" "RIVERHEAD BOOKS")
+livro02 = input("Buscar por ANO DA PUBLICAÇÃO:" "2003")
+
+livro03 = input("Buscar por NOME:" )
+livro03 = input("Buscar por EDITORA:" "DOUBLEDAY")
+livro03 = input("Buscar por ANO DA PUBLICAÇÃO:" "2009")
+
+livro04 = input("Buscar por NOME:" )
+livro04 = input("Buscar por EDITORA:" "ARQUEIRO")
+livro04 = input("Buscar por ANO DA PUBLICAÇÃO:" "2005")
+
+livro05 = input("Buscar por NOME:" )
+livro05 = input("Buscar por EDITORA:" "ARQUEIRO")
+livro05 = input("Buscar por ANO DA PUBLICAÇÃO:" "2008")
